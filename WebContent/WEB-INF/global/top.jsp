@@ -4,9 +4,10 @@
 <head>
 	<meta charset="UTF-8" />
 	<title>Document</title>
-	link rel = "stylesheet" href = "${context}/css/global/main"
+	<link rel = "stylesheet" href = "${css}/global.css"/>
+
+
 </head>
 <body>
 	
 </body>
-</html>
